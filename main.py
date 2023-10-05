@@ -40,7 +40,7 @@ def download(title:str):
     res = requests.get(url = url, proxies = proxies, verify= False)
 
     try:
-        soup = BeautifulSoup(res.text,'html.parser')``
+        soup = BeautifulSoup(res.text,'html.parser')
         url_item = soup.find('div',class_="gs_or_ggsm")
         a_item = url_item.find('a')
         url = a_item.get('href')
