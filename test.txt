@@ -1,0 +1,3 @@
+SCINet: Time Series Modeling and Forecasting with Sample Convolution and Interaction
+HGV4Risk Hierarchical Global View-guided Sequence Representation Learning for Risk Prediction
+HUSP-SP Faster Utility Mining on Sequence Data
