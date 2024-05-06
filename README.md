@@ -1,5 +1,5 @@
-# thesis_download_script
-一个自动下载论文的脚本。通过谷歌学术获取pdf链接，谷歌学术找不着pdf的就找不着。
+# paper_download
+一个自动下载论文的脚本。通过谷歌学术获取pdf链接。
 
 ```python
 pip install requests
